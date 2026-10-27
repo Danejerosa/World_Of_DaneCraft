@@ -2,4 +2,4 @@
 // Example: https://play.yourdomain.com/
 // Keep this blank until you have HTTPS + an access/login layer in place.
 // Do NOT use an unprotected wenilla-host development URL or localhost.
-window.DANECRAFT_PLAY_URL = 'http://127.0.0.1:8090/';
+window.DANECRAFT_PLAY_URL = 'https://desktop-bfoas84.tail503f1a.ts.net/';
